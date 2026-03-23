@@ -12,6 +12,6 @@
   <button class="btn btn-primary" type="button">Cliente</button>
   <button class="btn btn-primary" type="button">funcionario</button>
 </div>
-    
+    <h2>gfdgbfdghfdg</h2>
 </body>
 </html>
